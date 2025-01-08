@@ -1,2 +1,2 @@
- "# Ecommerce-website-nextjs"
+ "Ecommerce-website-nextjs"
  
